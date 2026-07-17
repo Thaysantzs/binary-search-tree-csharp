@@ -195,6 +195,3 @@ Some features intentionally left for future implementations:
 **Thiago Santiago**
 
 Computer Science student passionate about Software Engineering, Data Structures, Algorithms, and Backend Development.
-
-GitHub:
-https://github.com/Thaysantzs
